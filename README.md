@@ -7,7 +7,7 @@
   * Leveraged efficient database querying in order to implement features for creating and viewing tweets, following users, searching for user profiles, and listing followers.
 - **Access:** Private repository (code samples available upon request).
 
-### Event Lottery System - Database-Driven Android Application
+### [Event Lottery System - Database-Driven Android Application](https://github.com/CMPUT301F24yapper/YapperApp)
 
 - **Tech Stack:** Java, Firebase (Firestore), Android Studio
 - **Description:** Developed an Android event lottery system with real-time data synchronization using Firebase Firestore. This app provides an easy-to-use solution for event organizers and entrants, offering an efficient and fair system for high-demand events.
