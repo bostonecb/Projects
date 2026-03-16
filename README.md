@@ -1,7 +1,7 @@
 # My Project Portfolio
 
 ### [Distributed Social Networking Platform ("PeachPuff") -  Full Stack Web Application](https://github.com/bostonecb/Peach-Puff-Social-Distribution-Network)
-[Project Demo](https://youtu.be/JBPsObFnvjU)]
+[Project Demo](https://youtu.be/JBPsObFnvjU)
 - **Tech Stack:** Django, Javascript, HTML/CSS, REST APIs, Heroku
 - **Description:** Built and deployed a full-stack social networking application with a responsive front end and RESTful API integrations, designed to operate across distributed systems with multiple partner teams.
 - **Key Features:**
