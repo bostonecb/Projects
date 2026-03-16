@@ -9,7 +9,7 @@
   - **REST API Integration:** Implemented and consumed RESTful APIs to enable cross-platform data exchange between distributed nodes.
   - **Cross-Team Integration:** Led integration testing with partner teams to ensure seamless data consistency across systems.
   - **Cloud Deployment:** Application deployed and hosted on Heroku for live, production-ready access.
-[![Project Demo](https://youtu.be/JBPsObFnvjU)
+[![Project Demo](https://youtu.be/JBPsObFnvjU)]
 
 
 ### [Event Lottery System - Database-Driven Android Application](https://github.com/CMPUT301F24yapper/YapperApp)
